@@ -1,4 +1,4 @@
-# 🏄‍♂️ GustaCodes - Augusto
+# 🏄‍♂️ SeoCodes - Augusto
 
 **`Digital Nomad (Developer & Creator)`**
 
