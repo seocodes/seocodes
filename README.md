@@ -1,6 +1,6 @@
 # 🏄‍♂️ SeoCodes - Augusto
 
-**`Digital Nomad (Developer & Creator)`**
+**`Developer & Creator`**
 
 Hi, I'm Augusto, a backend developer with a deep passion for problem-solving and creating impactful solutions. I study at SATC in Criciúma, and I’m always curious to learn more about the digital world. I love diving into challenges that push me to grow as a developer, and I’m eager to explore new horizons in tech. For me, coding isn’t just about building systems — it’s about crafting efficient, meaningful solutions that make a difference.
 #
