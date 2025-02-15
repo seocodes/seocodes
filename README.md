@@ -1,11 +1,11 @@
-# 🏄‍♂️ SeoCodes - Augusto
+# SeoCodes - Augusto
 
-**`Developer & Creator`**
+**`Backend Developer`**
 
 Hi, I'm Augusto, a backend developer with a deep passion for problem-solving and creating impactful solutions. I study at SATC in Criciúma, and I’m always curious to learn more about the digital world. I love diving into challenges that push me to grow as a developer, and I’m eager to explore new horizons in tech. For me, coding isn’t just about building systems — it’s about crafting efficient, meaningful solutions that make a difference.
 #
 
-### 🤖 Languages and Tools:
+### Languages and Tools:
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
