@@ -7,7 +7,7 @@ Hi, I'm Augusto, a backend developer with a deep passion for problem-solving and
 
 <div align="center">
   <h3>Tech stacks</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,java,spring,py,nodejs,cpp,cs,linux,bash,git,github" alt="Linguagens e Ferramentas"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,spring,py,nodejs,cpp,cs,linux,bash,git,github" alt="Linguagens e Ferramentas"/>
 </div>
 
 <div align="center">
