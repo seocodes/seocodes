@@ -1,14 +1,14 @@
-## Hi, I'm Augusto! - **`backend developer`**
+# Hi, I'm Augusto!
 
 
 
 <div align="center">
-  <h3>tech stacks</h3>
+  <h3>these are my tech stacks</h3>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,java,spring,py,nodejs,cpp,cs,linux,bash,git,github" alt="Linguagens e Ferramentas"/>
 </div>
 
 <div align="center">
-  <h3>socials</h3>
+  <h3>these are my socials</h3>
   <a href=https://www.linkedin.com/in/augusto-vitali-430329340/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
