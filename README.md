@@ -3,8 +3,8 @@
 
 
 <div align="center">
-  <h3>these are my tech stacks</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,spring,py,nodejs,cpp,cs,linux,bash,git,github" alt="Linguagens e Ferramentas"/>
+  <h3>my tech stack</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,spring,py,nodejs,cpp,linux,bash,git,github" alt="Linguagens e Ferramentas"/>
 </div>
 
 <div align="center">
