@@ -9,10 +9,10 @@
 
 <div align="center">
   <h3>these are my socials</h3>
-  <a href=https://www.linkedin.com/in/augusto-vitali-430329340/" target="_blank">
+  <a href=https://www.linkedin.com/in/augusto-vitali/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/zvitali_/" target="_blank">
+  <a href="https://www.instagram.com/augustovlr/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 <!--   <a href="mailto:" target="_blank">
