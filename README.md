@@ -34,12 +34,12 @@
 
 ### 📈 Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=seocodes&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img height="300em" src="https://github-readme-activity-graph.vercel.app/graph?username=seocodes&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
 
 #
 
 ### 🔥 Streak Stats
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=seocodes&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.vercel.app?user=seocodes&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
