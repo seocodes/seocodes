@@ -8,7 +8,7 @@
 <br>
 <img src="https://skillicons.dev/icons?i=java,spring,py,fastapi,redis,cpp,nginx,docker&theme=dark" alt="Backend e Infraestrutura"/>
 <br>
-<img src="https://skillicons.dev/icons?i=linux,bash,postgres,mysql,firebase,git,github,bullmq&theme=dark" alt="Banco de Dados e Ferramentas"/>
+<img src="https://skillicons.dev/icons?i=linux,bash,postgres,mysql,firebase,git,github,rabbitmq&theme=dark" alt="Banco de Dados e Ferramentas"/>
 </div>
 
 #
