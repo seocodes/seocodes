@@ -2,15 +2,6 @@
 <h3 align="center">The bug was the feature all along [ ] SWE 2/8 @ UniSATC</h3>
 </div>
 
-<h3 align="center">some techs i used::<h3>
-<div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,nest,prisma,cs&theme=dark" alt="Frontend e Backend"/>
-<br>
-<img src="https://skillicons.dev/icons?i=java,spring,py,fastapi,redis,cpp,nginx,docker&theme=dark" alt="Backend e Infraestrutura"/>
-<br>
-<img src="https://skillicons.dev/icons?i=linux,bash,postgres,mysql,firebase,git,github,rabbitmq&theme=dark" alt="Banco de Dados e Ferramentas"/>
-</div>
-
 #
 
 <h3 align="center">connect w/ me::<h3>
