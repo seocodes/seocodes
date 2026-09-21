@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/augusto-vitali/">
     <img src="https://img.shields.io/badge/linkedin-181717?style=flat-square&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/augustovlr/">
+  <a href="https://www.instagram.com/augustovitali_/">
     <img src="https://img.shields.io/badge/instagram-181717?style=flat-square&logo=instagram&logoColor=white">
   </a>
   <a href="mailto:contato.augustovitali@gmail.com">
